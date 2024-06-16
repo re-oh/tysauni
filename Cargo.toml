@@ -1,6 +1,6 @@
 [package]
 name = "tysauni"
-version = "0.1.0-beta.0"
+version = "0.1.0-beta.1"
 authors = ["reoh"]
 description = "!!! THIS IS NOT STABLE !!! Tysauni is a simple lib for implementing multible types under a single type called a Register"
 license = "MIT"
